@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Vozarron</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="texto_detalle_de_personaje">Bugs Bunny (también llamado
+        Serapio en algunos países hispanohablantes1 o El conejo de la suerte
+        en España2) es un personaje de dibujos animados que aparece en las
+        series de los Looney Tunes y Merrie Melodies producidas por León
+        Schlesinger para la Warner Bros.
+        En el año 2002 fue nombrado por TV Guide como el dibujo animado más
+        grande de todos los tiempos, compartiendo este gran honor con Mickey
+        Mouse. En la actualidad Bugs Bunny es utilizado como el emblema o
+        mascota de la compañía Warner Bros.</string>
+</resources>
